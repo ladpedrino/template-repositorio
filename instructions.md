@@ -185,8 +185,6 @@ projeto-dados/
 │   └── external/     # Dados de terceiros
 ├── notebooks/        # Notebooks de exploração e análise
 ├── src/              # Código-fonte modular
-│   ├── data/         # Scripts de coleta/preparação
-│   ├── features/     # Engenharia de features
 │   ├── models/       # Treinamento e predição
 │   └── visualization/# Gráficos e dashboards
 ├── tests/            # Testes automatizados
