@@ -60,7 +60,6 @@
 │   ├── features/     # Scripts para criação de features
 │   ├── models/       # Treinamento e predição de modelos
 │   └── visualization/# Scripts para gráficos e dashboards
-├── tests/            # Testes unitários e de integração
 ├── docs/             # Documentação do projeto
 ├── reports/          # Relatórios gerados, figuras e análises
 └── .github/          # Templates e workflows do GitHub
