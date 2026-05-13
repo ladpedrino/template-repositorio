@@ -56,9 +56,7 @@
 │   └── external/     # Dados de fontes externas
 ├── notebooks/        # Jupyter notebooks de exploração e análise
 ├── src/
-│   ├── data/         # Scripts para baixar e gerar dados
 │   ├── features/     # Scripts para criação de features
-│   ├── models/       # Treinamento e predição de modelos
 │   └── visualization/# Scripts para gráficos e dashboards
 ├── docs/             # Documentação do projeto
 ├── reports/          # Relatórios gerados, figuras e análises
